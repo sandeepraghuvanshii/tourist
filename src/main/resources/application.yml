@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: app
+  data:
+    mongodb:
+      username: tourist
+      password: tourist9696
+      database: tourist
+      uri: mongodb+srv://tourist:tourist9696@tourist.fvmak8d.mongodb.net/
